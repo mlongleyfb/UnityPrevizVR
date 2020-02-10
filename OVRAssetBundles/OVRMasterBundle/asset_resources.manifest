@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 3236064883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bc791dce655b947bbefb2e868ab1bb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 347b2884dc1d2d3c8b9f1e234c94ffb7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/Standard Assets/Effects/AntiAliasing/FXAA/Resources/FXAA3.cginc
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+- Assets/Oculus/VR/Resources/OVRMRChromaKey.cginc
+- Assets/Oculus/SampleFramework/Core/Video/Resources/Multiview Stereo.shader
+- Assets/Standard Assets/Effects/TemporalAntiAliasing/Resources/TemporalAntiAliasing.cginc
+- Assets/Standard Assets/Effects/MotionBlur/Resources/Reconstruction.cginc
+- Assets/Resources/ONSPSettings.asset
+- Assets/Standard Assets/Effects/AntiAliasing/SMAA/Resources/AreaTex.tga
+- Assets/Standard Assets/Effects/ScreenSpaceReflection/Resources/ScreenSpaceReflection.shader
+- Assets/Standard Assets/Effects/AntiAliasing/SMAA/Resources/SearchTex.tga
+- Assets/Standard Assets/Effects/AmbientOcclusion/Resources/Common.cginc
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
+- Assets/Standard Assets/Effects/AmbientOcclusion/Resources/AmbientOcclusion.cginc
+- Assets/Standard Assets/Effects/DepthOfField/Resources/DepthOfField.shader
+- Assets/Standard Assets/Effects/ScreenSpaceReflection/Resources/ScreenSpaceRaytrace.cginc
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/Standard Assets/Effects/MotionBlur/Resources/Common.cginc
+- Assets/Standard Assets/Effects/AmbientOcclusion/Resources/AmbientOcclusion.shader
+- Assets/Standard Assets/Effects/AntiAliasing/FXAA/Resources/FXAA.shader
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/Standard Assets/Effects/TonemappingColorGrading/Resources/HistogramRender.shader
+- Assets/Standard Assets/Effects/TonemappingColorGrading/Resources/TonemappingColorGrading.cginc
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/Standard Assets/Effects/AntiAliasing/SMAA/Resources/SMAA.shader
+- Assets/Standard Assets/Effects/AmbientOcclusion/Resources/Composition.cginc
+- Assets/Standard Assets/Effects/Bloom/Resources/Bloom.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/Standard Assets/Effects/AntiAliasing/SMAA/Resources/SMAA.cginc
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+- Assets/Standard Assets/Effects/MotionBlur/Resources/Prefilter.cginc
+- Assets/Standard Assets/Effects/TonemappingColorGrading/Resources/TonemappingColorGrading.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Standard Assets/Effects/AmbientOcclusion/Resources/SeparableBlur.cginc
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/Oculus/VR/Resources/OVRMRClipPlane.shader
+- Assets/Standard Assets/Effects/MotionBlur/Resources/FrameBlending.shader
+- Assets/Standard Assets/Effects/Bloom/Resources/Bloom.cginc
+- Assets/Standard Assets/Effects/DepthOfField/Resources/MedianFilter.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+- Assets/Standard Assets/Effects/DepthOfField/Resources/BokehSplatting.shader
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
+- Assets/Standard Assets/Effects/TemporalAntiAliasing/Resources/TemporalAntiAliasing.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarMaterialStateShader.cginc
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/Standard Assets/Effects/MotionBlur/Resources/Reconstruction.shader
+- Assets/Standard Assets/Effects/LensAberrations/Resources/LensAberrations.shader
+- Assets/Standard Assets/Effects/TonemappingColorGrading/Resources/HistogramCompute.compute
+Dependencies: []
